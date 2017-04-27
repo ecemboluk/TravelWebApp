@@ -1,0 +1,176 @@
+@CHARSET "UTF-8";
+body{
+    background-color:rgb(234,234,234)
+
+}
+#coloB{
+    background-color:rgb(234,234,234)
+}
+#header{
+
+    top: 25%;
+    left: 40%;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+#panel{
+
+    border:1px solid black;
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    margin-left: -160px;
+    margin-top: -70px;
+    text-align:center;
+
+    font-size:1.4em;
+}
+#baslik{
+    margin-top:200px;
+    margin-left:610px;
+}
+#sistemf{
+    margin-left:600px;
+}
+#btarih{
+    margin-left:-125px;
+    margin-top:150px;
+}
+#bitarih{
+    margin-left:150px;
+    margin-top:-25px;
+}
+#search{
+    margin-left:740px;
+    margin-top:-10px;
+
+}
+#calender1{
+    margin-top:-25px;
+    margin-left:30px;
+}
+#calender2{
+    margin-top:-25px;
+    margin-left:305px;
+}
+#add{
+    margin-top:-50px;
+    margin-left:830px;
+}
+#gezipanel{
+    margin-top:30px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+#f_box{
+    width: 200px;
+    height: 25px;
+    margin-left: 165px;
+    margin-top: -20px;
+}
+#calender3{
+    margin-left:350px;
+    margin-top:-25px;
+}
+#f_box1{
+    width: 200px;
+    height: 25px;
+    margin-left: 145px;
+    margin-top: -20px;
+}
+#adminpanel{
+
+    margin-top: -190px;
+    margin-left: 200px;
+}
+#role{
+    margin-left: 145px;
+    margin-top: -20px;
+}
+#userlistpanel{
+
+    margin-left: 190px;
+    width: 1080px;
+    margin-top: -20px;
+
+}
+#add{
+    margin-left: 1226px;
+}
+#uadd{
+    height: 25px;
+}
+#block{
+    height: 24px;
+}
+#body{
+    background-color:rgb(234,234,234)
+}
+#userpage{
+    margin-left: 180px;
+    margin-right: 150px;
+}
+#traveladd{
+    margin-left:1067px;
+}
+#nameSurname{
+    margin-left: 1310px;
+    margin-top: 5px;
+}
+#baslangic{
+    margin-left: 130px;
+    margin-top: -25px;
+}
+#bitis{
+    margin-left: 130px;
+    margin-top: -25px;
+}
+#date{
+    margin-bottom: -30px;
+}
+#pwd{
+    width: 200px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+#dateU{
+    margin-bottom: -64px;
+    margin-left:-15px;
+}
+#adminpage{
+    margin-left: 190px;
+}
+#admindate{
+    margin-left:175px;
+    margin-top:10px;
+    margin-bottom:-30px;
+}
+#admin{
+    margin-bottom:-40px;
+}
+#add1{
+    margin-left:1225px;
+}
+#search1{
+    margin-bottom:-10px;
+    margin-top:-10px
+}
+#userL{
+    margin-left:1180px;
+}
+#dateA{
+    width:360px;
+    margin-left:-15px;
+}
+#cancel{
+    margin-top:15px;
+}
+#save{
+    margin-top:-35px;
+    margin-left:60px;
+}
